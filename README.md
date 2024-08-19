@@ -5,19 +5,27 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+it is the design, development, testing and maintenance of software applications.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+designing of the software application
+development of the software application
+testing of the software application
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+planning which involves defining the softwares purpose and scope
+requirement analysis which seeks to identify and record the precise requirement of final users
+design which is about building the framework
+coding which involves converting software design to tangible code
+testing where vulnerabilites are uncovered
+deployment where it is presented to users
+maintenance where there is constant assistance and improvement
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+waterfall has a fixed timelinewhile agile is more flexible
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+software developers create software applications and programs' quality assuarance engineer ensures quality of the software application while a project manager evaluates a problem in a code
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
